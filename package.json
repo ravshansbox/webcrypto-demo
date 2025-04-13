@@ -6,11 +6,11 @@
     "start": "nodemon --watch 'src/server' src/server/index.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "node-webcrypto-ossl": "^2.1.2"
   },
   "devDependencies": {
     "eslint": "^7.11.0",
-    "nodemon": "^2.0.5"
+    "nodemon": "^2.0.22"
   }
 }
